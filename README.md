@@ -1,1 +1,1 @@
-https://ginkenta.github.io/rsschool-cv/
+ https://ginkenta.github.io/rsschool-cv/
